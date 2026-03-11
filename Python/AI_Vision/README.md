@@ -1,6 +1,4 @@
-# 🤖 AI Vision & Robot Control
-
-이 폴더는 인공지능(YOLO) 객체 인식과 로봇의 센서(LiDAR, Camera) 데이터를 결합하여 **자율주행 및 원격 제어 시스템**을 구현한 핵심 코드들을 포함하고 있습니다.
+인공지능(YOLO) 객체 인식과 로봇의 센서(LiDAR, Camera) 데이터를 결합한 **자율주행 및 원격 제어 시스템**을 학습했습니다
 
 ## 📂 파일별 기능 요약 (File Description)
 
