@@ -1,4 +1,4 @@
-# ROS2 Workspace - Study & Test Repository
+# ROS2 core
 
 ROS2 Humble 환경에서 로봇 제어, 슬램(SLAM), 파라미터 및 QoS 설정을 학습
 
