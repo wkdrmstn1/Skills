@@ -1,0 +1,5 @@
+# config/params.yaml
+/custom_param_node: # 노드 이름 (주의: 실행할 때의 이름과 같아야 함)
+  ros__parameters:
+    my_speed: 3.14
+    robot_name: "YamlBot"

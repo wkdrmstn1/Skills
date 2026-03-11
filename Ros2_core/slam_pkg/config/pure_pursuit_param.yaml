@@ -1,0 +1,4 @@
+/pure_pursuit_param_node:
+  ros__parameters:
+    goal_x: 0.3
+    goal_y: -0.3

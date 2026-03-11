@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+venv/
+env/
+.venv/
+
+.vscode/
+
+.ipynb_checkpoints
+
+.DS_Store
+Thumbs.dbyolov3.weights
